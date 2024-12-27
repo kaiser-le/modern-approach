@@ -1,0 +1,15 @@
+{
+    "files.autoSave": "onWindowChange",
+    "editor.formatOnSave": true,
+    "C_Cpp.clang_format_style": "file:/home/kasier/develop/package/.clang-format-kernel ",
+    "C_Cpp.formatting": "clangFormat",
+    "files.associations": {
+        "cstdlib": "c",
+        "*.tcc": "cpp",
+        "limits": "cpp",
+        "numeric": "cpp",
+        "streambuf": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp"
+    }
+}
