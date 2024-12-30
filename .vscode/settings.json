@@ -10,6 +10,8 @@
         "numeric": "cpp",
         "streambuf": "cpp",
         "tuple": "cpp",
-        "type_traits": "cpp"
+        "type_traits": "cpp",
+        "sstream": "c",
+        "typeinfo": "c"
     }
 }
